@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-###### 🤔 Languages
+- Korean developer. 🇰🇷
+- Application program. 🖐🏻
+- Web program.🖐🏻 
+
+###### 🏢 Company 
+- 파미 - 2012.01.09  ~ 2014.4.30
+- 쎄트렉아이 - 2014.05.07 ~ 2015.03.31
+- 에스아이디텍션 - 2015.04.01 ~ 2021.07.16
+- 넷타겟 - 2020.07.19 ~ 2021.10.01
+- 지란지교데이터 - 2021.10.18 ~
+
+###### 🖥 Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -11,7 +22,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-###### 🤭 TOOL
+###### 🔭 TOOL
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
