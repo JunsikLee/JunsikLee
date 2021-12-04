@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - Korean developer. 🇰🇷
-- Application program. 🖐🏻
-- Web program.🖐🏻 
+- Application program. 🙈
+- Web program.🙀 
 
 ###### 🏢 Company 
 - 파미 - 2012.01.09  ~ 2014.4.30
