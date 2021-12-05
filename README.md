@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Junsik.lee - 
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junsik.lee.86/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 - Korean developer. 🇰🇷
 - Application program. 🙈
 - Web program.🙀 
@@ -34,6 +41,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 <!--
 **JunsikLee/JunsikLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
