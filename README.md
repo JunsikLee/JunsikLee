@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Junsik.lee - 
+Junsik.lee
 <a href="https://www.instagram.com/junsik.lee.86/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junsik.lee.86/"
