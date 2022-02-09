@@ -7,9 +7,9 @@ Junsik.lee
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- Korean developer. 🇰🇷
-- Application program. 🙈
-- Web program.🙀 
+- Korean developer 🇰🇷
+- Application program 🙈
+- Web program 🙀 
 
 ###### 🏢 Company 
 - 파미 - 2012.01.09  ~ 2014.4.30 👨🏻‍🌾 Application Developer (C++, C#)
