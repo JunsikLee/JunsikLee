@@ -18,7 +18,7 @@ Junsik.lee
 - 에스아이디텍션 - 2015.04.01 ~ 2021.07.16 👨🏻‍🌾 Web Development, 👨🏻‍🌾Application Developer (C#, JAVA)
 - 넷타겟 - 2020.07.19 ~ 2021.10.01 👨🏻‍🌾 Web Development (Python)
 - 지란지교데이터 - 2021.10.18 ~ 2022.11.11 👨🏻‍🌾 Web Development (JAVA, Python)
-- ◯◯◯◯ - 2021.11.21 ~  👨🏻‍🌾 Web Development
+- RTST - 2021.11.21 ~  👨🏻‍🌾 Web Development
 
 ###### 🖥 Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
