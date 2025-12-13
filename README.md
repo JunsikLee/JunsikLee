@@ -15,7 +15,7 @@ Junsik.lee
 #### 🏢 Company 
 - 파미 - 2012.01.09  ~ 2014.4.30 / Application Developer (C++, C#)
 - 쎄트렉아이 - 2014.05.07 ~ 2015.03.31 /  Web Development (JAVA)
-- 에스아이디텍션 - 2015.04.01 ~ 2021.07.16 / Web Development, 👨🏻‍🌾Application Developer (C#, JAVA)
+- 에스아이디텍션 - 2015.04.01 ~ 2021.07.16 / Web Development, Application Developer (C#, JAVA)
 - 넷타겟 - 2020.07.19 ~ 2021.10.01 / Web Development (Python)
 - 지란지교데이터 - 2021.10.18 ~ 2022.11.11 / Web Development (JAVA, Python)
 - RTST - 2021.11.21 ~  / Web Development (Typescript, Node.js, React, D3.js)
