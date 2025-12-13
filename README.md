@@ -13,12 +13,12 @@ Junsik.lee
 - Web program 🙀 
 
 #### 🏢 Company 
-- 파미 - 2012.01.09  ~ 2014.4.30 👨🏻‍🌾 Application Developer (C++, C#)
-- 쎄트렉아이 - 2014.05.07 ~ 2015.03.31 👨🏻‍🌾 Web Development (JAVA)
-- 에스아이디텍션 - 2015.04.01 ~ 2021.07.16 👨🏻‍🌾 Web Development, 👨🏻‍🌾Application Developer (C#, JAVA)
-- 넷타겟 - 2020.07.19 ~ 2021.10.01 👨🏻‍🌾 Web Development (Python)
-- 지란지교데이터 - 2021.10.18 ~ 2022.11.11 👨🏻‍🌾 Web Development (JAVA, Python)
-- RTST - 2021.11.21 ~  👨🏻‍🌾 Web Development (Typescript, Node.js, React, D3.js)
+- 파미 - 2012.01.09  ~ 2014.4.30 / Application Developer (C++, C#)
+- 쎄트렉아이 - 2014.05.07 ~ 2015.03.31 /  Web Development (JAVA)
+- 에스아이디텍션 - 2015.04.01 ~ 2021.07.16 / Web Development, 👨🏻‍🌾Application Developer (C#, JAVA)
+- 넷타겟 - 2020.07.19 ~ 2021.10.01 / Web Development (Python)
+- 지란지교데이터 - 2021.10.18 ~ 2022.11.11 / Web Development (JAVA, Python)
+- RTST - 2021.11.21 ~  / Web Development (Typescript, Node.js, React, D3.js)
 
 #### 🖥 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,4 +62,3 @@ Junsik.lee
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
