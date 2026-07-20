@@ -5,17 +5,20 @@
 
 <a href="https://www.instagram.com/_js._.86/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </div>
+
 <br/>
 
 #### 👨‍💻 About Me
 - Korean developer 🇰🇷
 - Application program 🙈
-- Web program 🙀 
+- Web program 🙀
 
 
 #### 🏢 Company
- 
+
 | 회사 | 기간 | 역할 |
 | :--- | :--- | :--- |
 | **파미** | 2012.01 ~ 2014.04 | Application Developer |
@@ -24,7 +27,7 @@
 | **넷타겟** | 2020.07 ~ 2021.10 | Web Development |
 | **지란지교데이터** | 2021.10 ~ 2022.11 | Web Development |
 | **RTST** | 2022.11 ~ **현재** | Web · Application Development |
- 
+
 <br/>
 
 #### 🖥 Languages
@@ -64,6 +67,7 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757.svg?style=flat-square&logo=claude&logoColor=white)
 
 #### 🔭 Environment
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=apple&logoColor=white)
