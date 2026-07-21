@@ -19,14 +19,17 @@
 
 #### 🏢 Company
 
-| 회사 | 기간 | 역할 |
-| :--- | :--- | :--- |
-| **파미** | 2012.01 ~ 2014.04 | Application Developer |
-| **쎄트렉아이** | 2014.05 ~ 2015.03 | Web Development |
-| **에스아이디텍션** | 2015.04 ~ 2021.07 | Web · Application Development |
-| **넷타겟** | 2020.07 ~ 2021.10 | Web Development |
-| **지란지교데이터** | 2021.10 ~ 2022.11 | Web Development |
-| **RTST** | 2022.11 ~ **현재** | Web · Application Development |
+- RTST &nbsp; <sub>`Web · Application Development`</sub> <sub>`2022.11 ~ 현재`</sub>
+
+- 지란지교데이터 &nbsp;<sub>`Web Development`</sub> <sub>`2021.10 ~ 2022.11`</sub>
+
+- 넷타겟 &nbsp; <sub>`Web Development`</sub> <sub>`2020.07 ~ 2021.10`</sub>
+
+- 에스아이디텍션 &nbsp; <sub>`Web · Application Development`</sub> <sub>`2015.04 ~ 2021.07`</sub>
+
+- 쎄트렉아이 &nbsp; <sub>`Web Development`</sub> <sub>`2014.05 ~ 2015.03`</sub>
+
+- 파미 &nbsp; <sub>`Application Developer`</sub> <sub>`2012.01 ~ 2014.04`</sub>
 
 <br/>
 
