@@ -1,3 +1,5 @@
+<div align="center">
+
 # Junsik Lee
 
 **Application & Web Developer** · Korea 🇰🇷
@@ -5,6 +7,8 @@
 <a href="https://www.instagram.com/_js._.86/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+
+</div>
 
 ## 👨‍💻 About Me
 
