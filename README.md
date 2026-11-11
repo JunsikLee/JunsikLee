@@ -1,5 +1,3 @@
-<div align="center">
-
 # Junsik Lee
 
 **Application & Web Developer** · Korea 🇰🇷
@@ -8,19 +6,11 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-</div>
-
-<div align="center">
-
 ## 👨‍💻 About Me
 
 Korean developer 🇰🇷<br/>
 Application Development 🙈<br/>
 Web Development 🙀
-
-</div>
-
-<div align="center">
 
 ## 🏢 Experience
 
@@ -41,10 +31,6 @@ Web Development 🙀
 
 **파미** &nbsp; <sub>2012.01 ~ 2014.04</sub><br/>
 <sub>Application Developer</sub>
-
-</div>
-
-<div align="center">
 
 ## 🛠 Tech Stack
 
@@ -71,5 +57,3 @@ Web Development 🙀
 #### 🔭 Environment
 
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=apple&logoColor=white) &nbsp; ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat-square&logo=windows&logoColor=white) &nbsp; ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black) &nbsp; ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white) &nbsp; ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visualstudiocode&logoColor=white) &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white)
-
-</div>
