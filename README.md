@@ -1,6 +1,7 @@
 <div align="center">
 
 # Junsik Lee
+
 **Application & Web Developer** · Korea 🇰🇷
 
 <a href="https://www.instagram.com/_js._.86/">
@@ -9,31 +10,25 @@
 
 </div>
 
-<br/>
+## 👨‍💻 About Me
 
-#### 👨‍💻 About Me
 - Korean developer 🇰🇷
-- Application program 🙈
-- Web program 🙀
+- Application Development 🙈
+- Web Development 🙀
 
+## 🏢 Experience
 
-#### 🏢 Company
+| Company        | Development                   | Period            |
+| -------------- | ----------------------------- | ----------------- |
+| RTST           | Web · Application Development | 2022.11 ~ 현재    |
+| 지란지교데이터 | Web Development               | 2021.10 ~ 2022.11 |
+| 넷타겟         | Web Development               | 2020.07 ~ 2021.10 |
+| 에스아이디텍션 | Web · Application Development | 2015.04 ~ 2021.07 |
+| 쎄트렉아이     | Web Development               | 2014.05 ~ 2015.03 |
+| 파미           | Application Developer         | 2012.01 ~ 2014.04 |
 
-- RTST &nbsp; <sub>`Web · Application Development`</sub> <sub>`2022.11 ~ 현재`</sub>
+## 🖥 Languages
 
-- 지란지교데이터 &nbsp;<sub>`Web Development`</sub> <sub>`2021.10 ~ 2022.11`</sub>
-
-- 넷타겟 &nbsp; <sub>`Web Development`</sub> <sub>`2020.07 ~ 2021.10`</sub>
-
-- 에스아이디텍션 &nbsp; <sub>`Web · Application Development`</sub> <sub>`2015.04 ~ 2021.07`</sub>
-
-- 쎄트렉아이 &nbsp; <sub>`Web Development`</sub> <sub>`2014.05 ~ 2015.03`</sub>
-
-- 파미 &nbsp; <sub>`Application Developer`</sub> <sub>`2012.01 ~ 2014.04`</sub>
-
-<br/>
-
-#### 🖥 Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -41,7 +36,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
-#### 🎨 Frontend
+## 🎨 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -51,17 +47,20 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwindcss&logoColor=white)
 
-#### ⚙️ Backend
+## ⚙️ Backend
+
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
-#### 🗄️ Database
+## 🗄️ Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-#### 🔧 DevOps & Tools
+## 🔧 DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -72,7 +71,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757.svg?style=flat-square&logo=claude&logoColor=white)
 
-#### 🔭 Environment
+## 🔭 Environment
+
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)
