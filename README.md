@@ -10,11 +10,15 @@
 
 </div>
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
-- Korean developer 🇰🇷
-- Application Development 🙈
-- Web Development 🙀
+Korean developer 🇰🇷<br/>
+Application Development 🙈<br/>
+Web Development 🙀
+
+</div>
 
 <div align="center">
 
